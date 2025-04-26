@@ -720,7 +720,7 @@ dependencies = [
 [[package]]
 name = "parry2d"
 version = "0.20.0"
-source = "git+https://github.com/jamespohalloran/parry?branch=polyline-normals#800cae75117f28c38d97fa5d18a3f7b4e94981f8"
+source = "git+https://github.com/jamespohalloran/parry?branch=polyline-normals#4d13ed31d0e557d5082ad37d4ac081fffc24a498"
 dependencies = [
  "approx",
  "arrayvec",
